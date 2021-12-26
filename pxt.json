@@ -8,7 +8,6 @@
         "tcs34725": "github:clashinkov/pxt-tcs34725#v0.0.2"
     },
     "files": [
-        "main.blocks",
         "main.ts",
         "README.md"
     ],
